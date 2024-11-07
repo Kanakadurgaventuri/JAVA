@@ -13,7 +13,7 @@ class Honda extends Bike
         System.out.println("Honda is running");
     }
 }
-public class DMDDemo
+public class DMDDemo1
 {
 	public static void main(String[] args) {
 		Bike b1=new Bike();
